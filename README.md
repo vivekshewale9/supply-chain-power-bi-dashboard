@@ -1,5 +1,5 @@
 # Supply Chain Order Analysis Dashboard
-![Supply Chain Dashboard](dashboard.png)
+![Supply Chain Dashboard](Dashboard.jpg)
 This project analyzes supply chain order data using Power BI.
 ## Features
 - KPI metrics for Total Orders, Open Orders, and Back Orders
